@@ -1,5 +1,6 @@
 //Check the console for the summary and deductions breakdown;
 
+
 //input the gross pay here;
 
 const inputGrossSalary = 130000;
